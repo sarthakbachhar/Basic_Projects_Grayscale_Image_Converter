@@ -20,8 +20,8 @@ This Python script loads an image, converts it to grayscale, and displays it usi
 
 2. Run the Script:
 
-```bash
-python your_script_name.py
+   ```bash
+   python your_script_name.py
 
 3. View the Grayscale Image: A window will open showing the grayscale image. Press any key to close it.
 
